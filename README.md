@@ -3,9 +3,9 @@ Start building: https://github.com/CoryAndrewHofstad/Amplifying-The-Residual-Ele
 
 # COMMONWEALTH OF VIRGINIA EXECUTIVE ORDER NUMBER FORTY-NINE (2020)
 
-# DECLARATION OF A STATE OF EMERGENCY
+DECLARATION OF A STATE OF EMERGENCY
 
-# DUE TO POTENTIAL CIVIL UNREST AT THE VIRGINIA STATE CAPITOL
+DUE TO POTENTIAL CIVIL UNREST AT THE VIRGINIA STATE CAPITOL
 
 # Importance of the Issue
 
@@ -40,7 +40,7 @@ D. Exempt from paragraph C’s prohibition are:
 
 2. Any other person otherwise acting in coordination with the Division of Capitol Police, as determined by its chief.
 
-Effective Dates of this Executive Order
+# Effective Dates of this Executive Order
 
 This Executive Order shall be effective from 5:00 p.m., Friday, January 17, until 5:00 p.m., Tuesday, January 21, 2020. Capitol Square will be open from 7:00 a.m. to 5:00 p.m. on the above days. Nothing in this Order rescinds or amends Executive Order 50 (McAuliffe), which remains in full force and effect.
 
